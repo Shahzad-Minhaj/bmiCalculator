@@ -1,6 +1,7 @@
 # BMI Calculator
 
-This is a simple BMI (Body Mass Index) Calculator web application developed using HTML, CSS, and JavaScript.
+This is a simple BMI (Body Mass Index) Calculator web application developed using HTML, CSS, and JavaScript given an assignment.
+Also another assignment provides a simple code in the JS  about the comparison of Waseem and Ali's BMI and the result will be shown in the console.
 
 ## Table of Contents
 
