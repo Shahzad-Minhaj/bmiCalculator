@@ -19,3 +19,4 @@ Also another assignment provides a simple code in the JS  about the comparison o
 1. Clone the repository:
 
    git clone https://github.com/Shahzad-Minhaj/bmi-calculator.git
+   Visit [BMI Calculator](bmicalc006.surge.sh)
